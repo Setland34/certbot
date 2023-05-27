@@ -82,7 +82,7 @@ pywin32==304; sys_platform == "win32" and python_version >= "3.7"
 pyyaml==5.4.1; python_version >= "3.7"
 requests-file==1.5.1; python_version >= "3.7"
 requests-toolbelt==0.9.1; python_version >= "3.7"
-requests==2.20.0
+requests==2.31.0
 rsa==4.8; python_version >= "3.7" and python_version < "4"
 s3transfer==0.3.7; python_version >= "3.7"
 setuptools==41.6.0
